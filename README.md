@@ -2,7 +2,7 @@
 a simple app for MSFS2020 DEV LIVERY BUILDS
 
 ## Interface
-![alt text](https://paceholder.com/ "Logo Title")
+![Interface](https://raw.githubusercontent.com/windowsaft/LazyLiveryTool/main/interface.PNG"a Interface")
 
 ## Functions
 * Generate the _models.js_ file
