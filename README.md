@@ -10,3 +10,6 @@ a simple app for MSFS2020 DEV LIVERY BUILDS
 * Update the _.gltf files_ to work properly (for more info: DEV LIVERY BUILDS #README.txt
 * Merging the new _.gltf files_ and aircrafts' _.gltf files_
 * Minemize the app to to the app tray
+
+## Installation
+* Place the _.exe_ or _.py_ in DEV LIVERY BUILDS and execute it
