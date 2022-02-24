@@ -2,7 +2,8 @@
 a simple app for MSFS2020 DEV LIVERY BUILDS
 
 ## Interface
-[![Interface](https://raw.githubusercontent.com/windowsaft/LazyLiveryTool/main/interface.PNG"a Interface")]
+<img src="https://raw.githubusercontent.com/windowsaft/LazyLiveryTool/main/interface.PNG" alt="Interfacet" title="Interface" />
+
 
 ## Functions
 * Generate the _models.js_ file
