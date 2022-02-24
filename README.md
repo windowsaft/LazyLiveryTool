@@ -1,0 +1,2 @@
+# LazyLiveryTool
+GUI for MSFS2020 DEV LIVERY BUILDS
